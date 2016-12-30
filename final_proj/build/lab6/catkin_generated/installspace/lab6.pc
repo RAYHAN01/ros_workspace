@@ -1,0 +1,8 @@
+prefix=/var/local/home/team03/ros_workspaces/final_proj/install
+
+Name: lab6
+Description: Description of lab6
+Version: 0.0.0
+Cflags: 
+Libs: -L/var/local/home/team03/ros_workspaces/final_proj/install/lib 
+Requires: 

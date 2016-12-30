@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /var/local/home/team03/ros_workspaces/final_proj/install/setup.sh

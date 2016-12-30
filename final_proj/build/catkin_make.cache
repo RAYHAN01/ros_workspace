@@ -1,0 +1,2 @@
+lab6
+-DCATKIN_DEVEL_PREFIX=/var/local/home/team03/ros_workspaces/final_proj/devel -DCMAKE_INSTALL_PREFIX=/var/local/home/team03/ros_workspaces/final_proj/install -G Unix Makefiles

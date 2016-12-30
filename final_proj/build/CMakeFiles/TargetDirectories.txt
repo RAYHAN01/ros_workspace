@@ -1,0 +1,16 @@
+/var/local/home/team03/ros_workspaces/final_proj/build/CMakeFiles/clean_test_results.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/CMakeFiles/download_extra_data.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/CMakeFiles/doxygen.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/geometry_msgs_generate_messages_cpp.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/geometry_msgs_generate_messages_lisp.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/geometry_msgs_generate_messages_py.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/gtest/CMakeFiles/gtest.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/gtest/CMakeFiles/gtest_main.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/CMakeFiles/run_tests.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/sensor_msgs_generate_messages_cpp.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/sensor_msgs_generate_messages_lisp.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/sensor_msgs_generate_messages_py.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/lab6/CMakeFiles/std_msgs_generate_messages_py.dir
+/var/local/home/team03/ros_workspaces/final_proj/build/CMakeFiles/tests.dir
